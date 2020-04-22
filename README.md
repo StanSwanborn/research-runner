@@ -1,2 +1,2 @@
-# research_runner
+# research-runner
 Automated collection execution of Google Scholar records into a Zotero collection.
