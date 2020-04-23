@@ -1,0 +1,10 @@
+{
+    "webdriver": {
+        "driver_type": "chrome",
+        "driver_path": "./Assets/drivers/chromedriver",
+        "extension_paths": [
+            "./Assets/extensions/zotero.crx"
+        ]
+    },
+    "search_string": "(intitle:robot) AND (intitle:power OR intitle:green OR intitle:energy OR intitle:battery) AND software"
+}

@@ -40,7 +40,7 @@ while pos is None:
     pos = pyautogui.locateOnScreen("./macOS/images/zotero_tree_source.png")
 
 print("Succesful")
-# ONLY FOR MACBOOK ( SCREEN BUG )
+# ONLY FOR MACBOOK ( SCREEN BUG ) ( CENTERING )
 click_x = pos[0] / 2 + (pos[2] / 2) / 2
 click_y = pos[1] / 2 + (pos[3] / 2) / 2
  
